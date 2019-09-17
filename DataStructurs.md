@@ -25,4 +25,19 @@ C++ --> std::vector;
 
 # Linked List
 
+  ## C#, JAVA --> LinkedList 
+  ## C++ std::list
+  ## python collections.deque
+
+  In linked list elemenst are stores in independent blocks of elements each element is a container with a pointer to the next container (Doubly link list if it has a pointer to the pervious container too) it also have a entry point container with head and tail pointers.
+
+  #### complexity analysys 
+
+  lets Assume N elements in the chain
+
+  gettting haed and tail is easy O(1);
+  Finding a specific element O(N);
+  Insertion if we already found the element O(N);
+  Deleting O(N); 
+
 # Priority queue
