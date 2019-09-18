@@ -8,9 +8,9 @@ Java --> ArrayList;
 
 C++ --> std::vector;
 
-## C# implimentations
+#### C# implimentations
 
-### Size: 8 --> 4,2,4,5,6,7,8,8,_,_,\_ ---->>> full
+##### Size: 8 --> 4,2,4,5,6,7,8,8,_,_,\_ ---->>> full
 
     case 1 : Adding a new element in will not be depends on the size of array or nor the number of element in the array hence the worst case coplexity will in general be the constant as O(1);
 
