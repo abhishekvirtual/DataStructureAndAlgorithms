@@ -19,8 +19,6 @@ C++ --> std::vector;
     for removing an element --> O(N);
     for searching also ----> O(N);
 
-###
-
 # Hash table
 
 # Linked List
