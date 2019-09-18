@@ -25,11 +25,11 @@ C++ --> std::vector;
 
 # Linked List
 
-## C#, JAVA --> LinkedList
+#### C#, JAVA --> LinkedList
 
-## C++ std::list
+#### C++ std::list
 
-## python collections.deque
+#### python collections.deque
 
 In linked list elemenst are stores in independent blocks of elements each element is a container with a pointer to the next container (Doubly link list if it has a pointer to the pervious container too) it also have a entry point container with head and tail pointers.
 
@@ -84,4 +84,4 @@ Noted here the swapping of the elements is independent of the total number of el
 
 1). remove from the top.
 2). put last element on the top.
-3). Repeat to follow the heap rule.
+3). Repeat and switch opsition with the slmallest child to follow the heap rule.
